@@ -13,7 +13,7 @@
 
 
 ## Description
-First a CSV file called coffee.csv is read and turned into a PySpark dataframe. Then numerous columns are added based on different on different aggregate funcitons, filter conditions, and basic data manipulaiton. PySpark is then used to showcase different aggregate values of certain columns within the dataset. Finally, the PySpark dataframe is then written into a parquet file and stored in the data directory.
+First a CSV file called coffee.csv is read and turned into a PySpark dataframe. Then numerous columns are added based on different aggregate funcitons, filter conditions, and basic data manipulaiton. PySpark is then used to showcase different aggregate values of certain columns within the dataset. Finally, the PySpark dataframe is then written into a parquet file and stored in the data directory.
 
 ## Setup/Installation Requirements
 
